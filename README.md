@@ -1,5 +1,23 @@
-# SRCCON_work_2017_CoC
-Github repo for Objectivity in the Modern Newsroom AKA minority journalists vs. Climate of Hate - https://work.srccon.org/sessions/#proposal-8
+# Objectivity in the Modern Newsroom
+This is the Github repo for the SRCCON Session _Objectivity in the Modern Newsroom, or minority journalists in a climate of hate_.
+
+### Description
+For decades, journalists have adhered to ethical codes of conduct that prevented them from taking political stances. These rules were established at a time when diversity in newsrooms was not nearly as prominent of an issue as it is now and when journalists did not have social media accounts. Now that Donald Trump is president and now that the issue of diversity in newsrooms is on everyone’s mind, we want to look at the future of these codes. What does it mean to be an immigrant in a newsroom when the president has based much of his campaign on anti-immigrant sentiments? How does a transgender reporter take personal politics out of their job when legislative steps are encroaching on their everyday rights? In this session, we present and discuss codes of conduct from various newsrooms before splitting up into groups and writing one together, one that will take into account the reality of modern journalism. https://work.srccon.org/sessions/#proposal-8
+
+### Details
+* When: Thursday, December 7 at 3:30pm
+* Where: [Haas](https://www.chemheritage.org/the-otto-rohm-and-otto-haas-room)
+* Capacity: 40-50 people
+* Format: Short presentation followed by workshop
+
+### Session outline
+* History of objectivity (5 mins)
+* General structures/sections for CoCs (5 mins + handout)
+* Split up the sections and form groups (45 mins)
+* Each group gets case study that test specific parts of the CoCs (20 mins)
+* Presentation of findings (20 mins)
+Wrap-up — putting it on Github
+
 
 ## Overview
 
@@ -32,11 +50,3 @@ Below are resources and information that can inform discussions around journalis
 * Completeness
 * Conflicts of interests/impartiality
 * Transparency
-
-## Session outline
-* History of objectivity (5 mins)
-* General structures/sections for CoCs (5 mins + handout)
-* Split up the sections and form groups (45 mins)
-* Each group gets case study that test specific parts of the CoCs (20 mins)
-* Presentation of findings (20 mins)
-Wrap-up — putting it on Github
