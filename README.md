@@ -10,6 +10,7 @@ For decades, journalists have adhered to ethical codes of conduct that prevented
 * Capacity: 40-50 people
 * Format: Short presentation followed by workshop
 * Slides: http://bit.ly/srccon-objectivity
+* Github repo: https://github.com/lobenichou/SRCCON_work_2017_CoC
 
 ### Session outline
 * History of objectivity (5 mins)
