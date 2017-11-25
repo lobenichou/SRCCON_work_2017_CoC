@@ -20,10 +20,18 @@ Below are resources and information that can inform discussions around journalis
 * [Conde Nast](http://www.condenastinternational.com/about-us/code-of-ethical-responsibility/)
 * [Dow Jones](https://www.dowjones.com/code-conduct/)
 * [New York Times](https://www.nytco.com/who-we-are/culture/standards-and-ethics/)
+* [NPR](http://ethics.npr.org/)
 * [ProPublica](https://www.propublica.org/code-of-ethics/)
 * [Vox](http://code-of-conduct.voxmedia.com/#Unacceptable%20behaviors)
 * [Washington Post](http://asne.org/content.asp?contentid=335)
 
+## Common sections
+
+* Accuracy
+* Fairness
+* Completeness
+* Conflicts of interests/impartiality
+* Transparency
 
 ## Session outline
 * History of objectivity (5 mins)
