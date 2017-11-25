@@ -9,6 +9,7 @@ For decades, journalists have adhered to ethical codes of conduct that prevented
 * Where: [Haas](https://www.chemheritage.org/the-otto-rohm-and-otto-haas-room)
 * Capacity: 40-50 people
 * Format: Short presentation followed by workshop
+* Slides: http://bit.ly/srccon-objectivity
 
 ### Session outline
 * History of objectivity (5 mins)
@@ -50,3 +51,7 @@ Below are resources and information that can inform discussions around journalis
 * Completeness
 * Conflicts of interests/impartiality
 * Transparency
+
+### Common ethical sticking points
+
+* Politics vs. identity and beliefs
