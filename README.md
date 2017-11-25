@@ -15,6 +15,7 @@ Below are resources and information that can inform discussions around journalis
 
 ### Sample codes of conduct
 * [BuzzFeed](https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide)
+* [Conde Nast](http://www.condenastinternational.com/about-us/code-of-ethical-responsibility/)
 * [Dow Jones](https://www.dowjones.com/code-conduct/)
 * [New York Times](https://www.nytco.com/who-we-are/culture/standards-and-ethics/)
 * [ProPublica](https://www.propublica.org/code-of-ethics/)
