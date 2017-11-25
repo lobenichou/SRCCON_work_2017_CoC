@@ -3,7 +3,7 @@ Github repo for Objectivity in the Modern Newsroom AKA minority journalists vs. 
 
 ## Overview
 
-Below are resources and information that can inform discussions around journalism ethics. 
+Below are resources and information that can inform discussions around journalism ethics.
 
 ### Literature around Codes of Conducts
 * [Center for Journalism Ethics](https://ethics.journalism.wisc.edu/about/)
@@ -17,6 +17,7 @@ Below are resources and information that can inform discussions around journalis
 * [BuzzFeed](https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide)
 * [Dow Jones](https://www.dowjones.com/code-conduct/)
 * [New York Times](https://www.nytco.com/who-we-are/culture/standards-and-ethics/)
+* [ProPublica](https://www.propublica.org/code-of-ethics/)
 * [Vox](http://code-of-conduct.voxmedia.com/#Unacceptable%20behaviors)
 * [Washington Post](http://asne.org/content.asp?contentid=335)
 
