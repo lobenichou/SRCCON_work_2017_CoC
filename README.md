@@ -12,6 +12,7 @@ Below are resources and information that can inform discussions around journalis
   * [Digital Media Ethics](https://ethics.journalism.wisc.edu/resources/digital-media-ethics/)
   * [Global Media Ethics](https://ethics.journalism.wisc.edu/resources/global-media-ethics/)
 * [Codes of Ethics and Beyond](https://www.poynter.org/news/codes-ethics-and-beyond)
+* [Two takeaways: Journalism history and Ethics panel](https://medium.com/what-is-journalism/5-takeaways-from-journalism-history-and-ethics-336cd832d4e1)
 * [Ethics Codes: History, Context, and Challenges (includes section on journalism)](http://bdes.datasociety.net/council-output/ethics-codes-history-context-and-challenges/)
 
 ### Sample codes of conduct
