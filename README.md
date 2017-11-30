@@ -2,7 +2,7 @@
 This is the Github repo for the SRCCON Session _Objectivity in the Modern Newsroom, or minority journalists in a climate of hate_.
 
 ### Description
-For decades, journalists have adhered to ethical codes of conduct that prevented them from taking political stances. These rules were established at a time when diversity in newsrooms was not nearly as prominent of an issue as it is now and when journalists did not have social media accounts. Now that Donald Trump is president and now that the issue of diversity in newsrooms is on everyone’s mind, we want to look at the future of these codes. What does it mean to be an immigrant in a newsroom when the president has based much of his campaign on anti-immigrant sentiments? How does a transgender reporter take personal politics out of their job when legislative steps are encroaching on their everyday rights? In this session, we present and discuss codes of conduct from various newsrooms before splitting up into groups and writing one together, one that will take into account the reality of modern journalism. https://work.srccon.org/sessions/#proposal-8
+For decades, journalists have adhered to ethical codes of conduct that prevented them from taking political stances. These rules were established at a time when diversity in newsrooms was not nearly as prominent of an issue as it is now and when journalists did not have social media accounts. Now that Donald Trump is president and now that the issue of diversity in newsrooms is on everyone’s mind, we want to look at the future of these codes and explore how journalists who identify as minorities can use self-care to navigate the tension between identity and ethics. What does it mean to be an immigrant in a newsroom when the president has based much of his campaign on anti-immigrant sentiments? How does a transgender reporter take personal politics out of their job when legislative steps are encroaching on their everyday rights? In this session, we present and discuss codes of conduct from various newsrooms before splitting up into groups and writing one together, one that will take into account the reality of modern journalism. https://work.srccon.org/sessions/#proposal-8
 
 ### Details
 * When: Thursday, December 7 at 3:30pm
@@ -15,10 +15,11 @@ For decades, journalists have adhered to ethical codes of conduct that prevented
 ### Session outline
 * History of objectivity (5 mins)
 * General structures/sections for CoCs (5 mins + handout)
-* Split up the sections and form groups (45 mins)
-* Each group gets case study that test specific parts of the CoCs (20 mins)
+* Split up the sections and form two sets of groups (45 mins)
+ * Set 1: each group gets case study that test specific parts of the CoCs (20 mins)
+ * Set 2: each group discusses self-care strategies (20 mins)
 * Presentation of findings (20 mins)
-Wrap-up — putting it on Github
+* Wrap-up — putting it on Github
 
 
 ## Overview
@@ -41,9 +42,15 @@ Below are resources and information that can inform discussions around journalis
 * [Dow Jones](https://www.dowjones.com/code-conduct/)
 * [New York Times](https://www.nytco.com/who-we-are/culture/standards-and-ethics/)
 * [NPR](http://ethics.npr.org/)
+* [NPR | Social Media](http://ethics.npr.org/tag/social-media/ )
 * [ProPublica](https://www.propublica.org/code-of-ethics/)
 * [Vox](http://code-of-conduct.voxmedia.com/#Unacceptable%20behaviors)
 * [Washington Post](http://asne.org/content.asp?contentid=335)
+* [Reveal](https://www.revealnews.org/ethics-guide/)
+* [AP | Social Media](https://www.ap.org/assets/documents/social-media-guidelines_tcm28-9832.pdf)
+* [AP | Ethics](https://www.ap.org/about/news-values-and-principles/)
+* [SPJ](https://www.spj.org/ethicscode.asp)
+* [NPPA](https://nppa.org/code-ethics)
 
 ## Common sections
 
