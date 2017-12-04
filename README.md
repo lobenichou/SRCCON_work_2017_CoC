@@ -51,6 +51,7 @@ Below are resources and information that can inform discussions around journalis
 * [AP | Ethics](https://www.ap.org/about/news-values-and-principles/)
 * [SPJ](https://www.spj.org/ethicscode.asp)
 * [NPPA](https://nppa.org/code-ethics)
+* [Virginia-Pilot](https://docs.google.com/document/d/1MHDjn3rvl29B0KIAEHBkfHl1_ZCV-tpwBDtks4q4gK4/edit)
 
 ## Common sections
 
