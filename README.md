@@ -60,6 +60,7 @@ Below are resources and information that can inform discussions around journalis
 * Completeness
 * Conflicts of interests/impartiality
 * Transparency
+* Social media
 
 ### Common ethical sticking points
 
