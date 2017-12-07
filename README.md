@@ -11,6 +11,7 @@ For decades, journalists have adhered to ethical codes of conduct that prevented
 * Format: Short presentation followed by workshop
 * Slides: http://bit.ly/srccon-objectivity
 * Github repo: https://github.com/lobenichou/SRCCON_work_2017_CoC
+* Etherpad: https://etherpad.opennews.org/p/SRCCONWORK2017-objectivity-climate-hate
 
 ### Session outline
 * History of objectivity (5 mins)
