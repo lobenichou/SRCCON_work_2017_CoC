@@ -35,6 +35,7 @@ Below are resources and information that can inform discussions around journalis
 * [Codes of Ethics and Beyond](https://www.poynter.org/news/codes-ethics-and-beyond)
 * [Two takeaways: Journalism history and Ethics panel](https://medium.com/what-is-journalism/5-takeaways-from-journalism-history-and-ethics-336cd832d4e1)
 * [Ethics Codes: History, Context, and Challenges (includes section on journalism)](http://bdes.datasociety.net/council-output/ethics-codes-history-context-and-challenges/)
+* [For journalists covering Trump, a Murrow moment](https://www.cjr.org/analysis/trump_inspires_murrow_moment_for_journalism.php)
 
 ### Sample codes of conduct
 * [BuzzFeed](https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide)
